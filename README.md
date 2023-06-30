@@ -1,0 +1,2 @@
+# Servidor-CRUD
+Este código implementa un servidor HTTP en el puerto 3000 que maneja las solicitudes al endpoint /anime. El servidor puede realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en datos de anime en un archivo llamado anime.json. Según el método de solicitud y los parámetros de consulta, el servidor puede agregar, recuperar, actualizar o eliminar datos de anime. También se incluye código para realizar los test necesarios hacia el servidor y verificar que funciona correctamente.
